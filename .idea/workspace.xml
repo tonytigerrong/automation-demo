@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e516eb8f-05fe-41ff-bcab-42489b1825d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fGuyQpqpT92uEiht1XF6ZAUGsM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.KafkaDemoApplication (1)">
+    <configuration name="KafkaDemoApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.automation.kafka.KafkaDemoApplication" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.automation.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.kafka.KafkaDemoApplication" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestassuredDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.automation.restassured.RestassuredDemoApplication" />
+      <module name="restassured-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.automation.restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.automation.restassured.fakeapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview.automation.restassured.fakeapi" />
+      <option name="MAIN_CLASS_NAME" value="interview.automation.restassured.fakeapi.Test1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.getAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.automation.restassured.fakeapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview.automation.restassured.fakeapi" />
+      <option name="MAIN_CLASS_NAME" value="interview.automation.restassured.fakeapi.Test1" />
+      <option name="METHOD_NAME" value="getAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaDemoApplication (1)" />
+        <item itemvalue="Application.RestassuredDemoApplication" />
+        <item itemvalue="Application.KafkaDemoApplication" />
+        <item itemvalue="JUnit.Test1.getAllUsers" />
+        <item itemvalue="JUnit.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e516eb8f-05fe-41ff-bcab-42489b1825d7" name="Default Changelist" comment="" />
+      <created>1595857004616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595857004616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1595947535349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595947535349" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1595958077355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595958077355" />
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom" timestamp="1595960641215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595960641215" />
+    <state width="1493" height="295" key="GridCell.Tab.0.center" timestamp="1595960641215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="295" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595960641215" />
+    <state width="1493" height="295" key="GridCell.Tab.0.left" timestamp="1595960641215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="295" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595960641215" />
+    <state width="1493" height="295" key="GridCell.Tab.0.right" timestamp="1595960641215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="295" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595960641215" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1595864353039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595864353039" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1595864353039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595864353039" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1595864353039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595864353039" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1595864353039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595864353039" />
+    <state x="393" y="166" key="new project wizard" timestamp="1595948663212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="166" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595948663212" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1595959563268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1595959563268" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/restassured-demo/src/test/java/interview/automation/restassured/fakeapi/Test1.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
