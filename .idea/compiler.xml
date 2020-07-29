@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="automation-demo" />
         <module name="kafka-demo" />
+        <module name="jms-demo" />
         <module name="restassured-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="automation-demo" target="1.8" />
+      <module name="jms-demo" target="1.8" />
       <module name="kafka-demo" target="1.8" />
       <module name="restassured-demo" target="1.8" />
     </bytecodeTargetLevel>
@@ -20,6 +22,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="automation-demo" options="-parameters" />
+      <module name="jms-demo" options="-parameters" />
       <module name="kafka-demo" options="-parameters" />
       <module name="restassured-demo" options="-parameters" />
     </option>

@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e516eb8f-05fe-41ff-bcab-42489b1825d7" name="Default Changelist" comment="" />
+    <list default="true" id="e516eb8f-05fe-41ff-bcab-42489b1825d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_2_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_jms_jakarta_jms_api_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_15_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_15_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_15_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_activemq_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/src/main/java/interview/automation/jms/JmsDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/src/main/java/interview/automation/jms/component/MessageReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/src/main/java/interview/automation/jms/config/JMSConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/src/main/java/interview/automation/jms/controller/JmsTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/src/main/java/interview/automation/jms/model/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/src/main/java/interview/automation/jms/utils/CommonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-demo/src/test/java/interview/automation/jms/JmsDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +52,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,18 +63,36 @@
     </option>
   </component>
   <component name="ProjectId" id="1fGuyQpqpT92uEiht1XF6ZAUGsM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Application.KafkaDemoApplication (1)">
+    <configuration name="JmsDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.automation.jms.JmsDemoApplication" />
+      <module name="jms-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.automation.jms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KafkaDemoApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview.automation.kafka.KafkaDemoApplication" />
       <module name="kafka-demo" />
@@ -73,21 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="restassured-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.automation.restassured.fakeapi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="interview.automation.restassured.fakeapi" />
-      <option name="MAIN_CLASS_NAME" value="interview.automation.restassured.fakeapi.Test1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test1.getAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassured-demo" />
       <extension name="coverage">
@@ -107,10 +151,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.KafkaDemoApplication (1)" />
+        <item itemvalue="Application.JmsDemoApplication" />
         <item itemvalue="Application.RestassuredDemoApplication" />
         <item itemvalue="Application.KafkaDemoApplication" />
         <item itemvalue="JUnit.Test1.getAllUsers" />
-        <item itemvalue="JUnit.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -127,51 +171,62 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Project_Structure" timestamp="1595947535349">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595947535349" />
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1595958077355">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1595976124507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595958077355" />
-    <state width="1493" height="295" key="GridCell.Tab.0.bottom" timestamp="1595960641215">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595976124507" />
+    <state width="420" height="466" key="DebuggerActiveHint" timestamp="1595990722890">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595960641215" />
-    <state width="1493" height="295" key="GridCell.Tab.0.center" timestamp="1595960641215">
+    <state width="420" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1595990722890" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1596036101565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="295" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595960641215" />
-    <state width="1493" height="295" key="GridCell.Tab.0.left" timestamp="1595960641215">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596036101565" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1596036101564">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="295" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595960641215" />
-    <state width="1493" height="295" key="GridCell.Tab.0.right" timestamp="1595960641215">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596036101564" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1596036101564">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="295" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595960641215" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1595864353039">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596036101564" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1596036101565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595864353039" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1595864353039">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596036101565" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596036101565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595864353039" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1595864353039">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596036101565" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1596036101565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595864353039" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1595864353039">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596036101565" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1596036101565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595864353039" />
-    <state x="393" y="166" key="new project wizard" timestamp="1595948663212">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596036101565" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1596036101565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="166" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595948663212" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596036101565" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595965983421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595965983421" />
+    <state x="393" y="166" key="new project wizard" timestamp="1595966877894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="166" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595966877894" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1595959563268">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
