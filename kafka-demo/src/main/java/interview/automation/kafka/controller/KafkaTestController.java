@@ -60,7 +60,7 @@ public class KafkaTestController {
     public void receiveString(String message){
         logger.info("Receive message \" "+message+"\"");
     }
-    @KafkaListener(topics="test_topic", groupId = "group_id")
+   @KafkaListener(topics="test_topic", groupId = "group_id")
     public void receiveUser(UserInfo user){
         logger.info("Receive userinfo \" "+user+"\"");
     }
